@@ -12,7 +12,7 @@ import {
 import { toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import HashLoader from "react-spinners/HashLoader";
-import ChangePass from "./ChangePass";
+
 
 function Login({ handleLogin }) {
     const [viewPass, setViewPass] = useState(false);
