@@ -1,0 +1,15 @@
+{
+    "short_name": "Todo app",
+    "name": "Todo React Firebase App",
+    "icons": [
+        {
+            "src": "Todo.png",
+            "type": "image/png",
+            "sizes": "500x500"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}

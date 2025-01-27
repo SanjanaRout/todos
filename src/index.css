@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .activeDate {
+        @apply bg-pink text-white dark:text-pink font-semibold;
+    }
+}
